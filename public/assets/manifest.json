@@ -1,0 +1,11 @@
+{
+  "assets/app.css": "http://localhost:8080/assets/app.css",
+  "assets/app.js": "http://localhost:8080/assets/app.js",
+  "assets/post.index.css": "http://localhost:8080/assets/post.index.css",
+  "assets/post.index.js": "http://localhost:8080/assets/post.index.js",
+  "assets/post.create.css": "http://localhost:8080/assets/post.create.css",
+  "assets/post.create.js": "http://localhost:8080/assets/post.create.js",
+  "assets/post.edit.css": "http://localhost:8080/assets/post.edit.css",
+  "assets/post.edit.js": "http://localhost:8080/assets/post.edit.js",
+  "assets/vendors-node_modules_axios_index_js.js": "http://localhost:8080/assets/vendors-node_modules_axios_index_js.js"
+}
